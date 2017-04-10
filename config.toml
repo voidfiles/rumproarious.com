@@ -3,6 +3,7 @@ title = "Rumproarious"
 baseURL = "http://rumproarious.com/"
 theme ="after-dark"
 googleAnalytics = "UA-197961-20"
+enableRobotsTXT = true # Suggested, enable robots.txt file
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
