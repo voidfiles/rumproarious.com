@@ -1,0 +1,41 @@
+---
+author: alex
+date: 2011-06-14 16:50:28 -0700
+layout: post
+slug: '288'
+status: publish
+title: Another reason family, and kids can focus your mind.
+wordpress_id: '288'
+---
+
+Last year I wrote a post about how having two kids in two years focused
+my work. I still think this is true, and today I read a post by [Aaron
+Mahnke](http://www.aaronmahnke.com/ "http://www.aaronmahnke.com/") about
+almost the same topic.
+> My 60-90 minutes of write time needs to be the most productive, most
+> efficient time I can manage. But because it comes at the end of the
+> day, my ability to retain fine details is rapidly deteriorating. Add
+> in a finger or two of whiskey, and it’s a miracle that I get anything
+> written at all.
+
+[Wireframing My
+Fiction](http://www.aaronmahnke.com/post/6507242825 "an article") is
+about how Aaron focuses the small amount of time he has each day to
+focus on personal projects. I feel like we both have the same idea with
+slightly different frames.
+> So I have developed a technique over time that I like to call
+> wireframing. If you are familiar with the process most web developers
+> use for the creation of websites, then my process will feel familiar.
+> Wireframing is all about putting the bare essentials on paper to gain
+> a complete picture of the website, but without all the decorative and
+> functional elements. It’s the skeleton that will be built upon, like
+> that wire figure in your college art class that you would have to mash
+> clay onto in some vain attempt to build a human body.
+
+I don't write fiction. I write blog posts, and make websites. My ideas
+usually come to me in the weirdest places, so I write them down in
+[simplenote](http://simplenoteapp.com/) the best I can, and then I put
+the idea like on the wall in my head. I will then continue to think
+about it until I can't think about it anymore. Then it others spews into
+a post, or into some code, and I'm done. Keeping the notes is key.
+Without them I would forget some of the finer points of my thoughts.

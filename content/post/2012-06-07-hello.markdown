@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Hello"
+date: 2012-06-07 21:20:22 -0700
+comments: true
+categories: beginnings development frontend javascript
+---
+
+I want to define my self at the start by looking at a very topical trend.
+
+{% blockquote %}
+<strong>Brogrammer</strong> - A programmer who breaks the usual expectations of quiet nerdiness and opts instead for the usual trappings of a frat-boy: popped collars, bad beer, and calling everybody "bro". Despised by everyone, especially other programmers.
+{% endblockquote %}
+
+First, this isn't a rant about Brogrammers, or people. It's a rant about an idea. Sure, they wear sunglasses, pop their collars, and listen to skrillex while coding. This is just a list features, just a way for one to possibly spot these people in the wild, they charatarize a Brogrammer. Those things aren't what I want to rant against.
+
+Brogrammers, like there bloodline relatives the Hipsters, represent an idea; apathy. They don't care about programming, they don't care about working. They don't care about creating good shit. They live in this world where image is everything, image is above all else.
+
+What sepeartes me from them is that *I want to care*. I want to spend my time making good shit. I want the help my peers get better.
+
+If not caring is cool, I don't want to be cool.
+
+

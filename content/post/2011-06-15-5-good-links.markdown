@@ -1,0 +1,52 @@
+---
+author: alex
+date: 2011-06-15 16:14:25 -0700
+layout: post
+slug: 5-good-links
+status: publish
+title: 5 good links
+wordpress_id: '289'
+categories:
+- articles
+---
+
+*[Invisible Inkling | Ryan Sholin on the future of news. And other
+stuff.](http://ryansholin.com/)* Social Memories: an Infographic Book of
+your Facebook Activity: Your very own Feltron report, if you don't mind
+that it's limited to all the information it can get from your Facebook
+account. Workshop: Advanced WordPress with NYU's Studio20: Daniel
+Bachhuber's notes from a workshop with Jay Rosen's students.
+
+*[shaver »
+because no respectable MBA programme would admit
+me](http://shaver.off.net/diary/2010/07/13/because-no-respectable-mba-programme-would-admit-me/)*
+I read (and talk) a lot about various "management topics". I've been
+doing this since long before I managed anything more significant than my
+own clothing choices, because part of my brain was swollen in a
+childhood bicycle accident; it deprives other parts of my brain of blood
+and nutrients, explaining in part why I know a lot about how
+decision-making processes can fall apart, but usually can't remember to
+have lunch.
+
+*[Crowdsourced document analysis and MP
+expenses](http://simonwillison.net/2009/Dec/20/crowdsourcing/)* As you
+may have heard, the UK government released a fresh batch of MP expenses
+documents a week ago on Thursday. I spent that week working with a small
+team at Guardian HQ to prepare for the release.
+
+*[Unlearning | Derek
+Sivers](http://sivers.org/unlearning)* When I would speak on panels at
+music conferences, I'd always find it funny how all of the panelists'
+opinions were completely tainted by their own self-interest. Someone
+would always ask us, "What's the future of the music business?" The guy
+whose company sells MP3s would say, "MP3s are the future.
+
+*[The Customer
+Development Manifesto: Reasons for the Revolution (part 1) « Steve
+Blank](http://steveblank.com/2009/08/31/the-customer-development-manifesto-reasons-for-the-revolution-part-1/)*
+This post makes more sense if you read the previous post - The Leading
+Cause of Startup Death: The Product Development Diagram. After 20 years
+of working in startups, I decided to take a step back and look at the
+product development model I had been following and see why it usually
+failed to provide useful guidance in activities outside the building -
+sales, marketing and business development.

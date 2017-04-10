@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Going Long On Markdown"
+date: 2012-10-29 00:04:22 -0700
+comments: true
+categories: Markdown RSS App.net education laws
+---
+
+Markdown like RSS is one of those things that has fundamentally changed my relationship with the way that I work. Unlike RSS though I think Markdown is primed for mass adoption. Its ready because it fills a classic need for a lightweight-journaling-note-taking-style syntax, it has wide spread adoption ie network effects, and we are already seeing movements to standardize and proselytize Markdown to a larger community.
+
+The other day on App.net I [posited](https://alpha.app.net/voidfiles/post/1125244) that Markdown seems to fill the same roll that cursive did. An easy way to take notes. A way for people to journal. I was taught cursive in elementary school. I don't think anyone will teach my kids cursive. Computers replaced the need for cursive, but there is still that need for something light weight, easy to write, something people can use to think in. While still making it easy to turn into structured documents later.Markdown provides that. It may not be the only syntax that flows nicely, but for a bunch of other reason it's probably the one that will stick around.
+
+Markdown isn't the only light markup syntax. Textile, rST, even Mediawiki has users, but Markdown has been built into more systems then any other. Among those of us who use Markdown we are constantly being delighted at where we can use it. This fact makes it hard for another syntax to get adoption. Also, given that Markdown seems to be the main syntax used on Github all the pieces seem set to make this the perfect storm. Markdown could very well be the de facto winner in a competition among syntaxes.
+
+The fact that Markdown is used so widely inside the Github ecosystem matters for another reason. [Clay Shirky](http://en.wikipedia.org/wiki/Clay_Shirky) gave a [talk](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html) recently about Git. He said that Git is a new form of argumentation. That was his main point, but more importantly he talked about how Github is a place for that argumentation to happen. An amazing amount of governance happens on Github. From the issues to the wiki to [countries putting laws](https://github.com/bundestag/gesetze#german-federal-laws-and-regulations "in Markdown format!!!") up on Github. As I watched his talk, I kept thinking to myself that all of those things are usually written in Markdown. It's the most pervasive syntax used on Github. If it is going to be the preeminent location for social discourse then Markdown stands to play a vital role.
+
+I understand that this is a corner stone for this line of argument. It could be near sighted to think that Github will create a world for Markdown all by its self, but it might not have to create that world all by it's self. Also, for Markdown to be widely adopted it needs to be adopted by a larger population outside of tech and Github isn't the only place where Markdown is making it outside of tech.
+
+[Fountain](http://fountain.io/) is a Markdown variant for writing screen plays. Screen plays; movie scripts; stage plays. For years, people had to setup Word just so, or purchase very specialized software just to write screenplays but now they have the freedom to use something like Markdown and it was created by one of their own. [John August](http://johnaugust.com/) is an actual screen writer. When you see that kind of movement towards Markdown outside of tech it only strengthens the idea that Markdown at least has a shot.
+
+And, just last week [Jeff Atwood](http://en.wikipedia.org/wiki/Jeff_Atwood) wrote a post about [the future of Markdown](http://www.codinghorror.com/blog/2012/10/the-future-of-Markdown.html). His call was simple; Lets standardize this thing. While I don't think it has to be standardized I think doing so would help. It would make the future of this whole thing a little less uncertain, and it would create even more network effects. More then his call to standardize, his post embodies the idea that there are a bunch of people out there who think that Markdown is cool, and wonder why the rest of the world doesn't know about it. There are people ready to knock on some doors.
+
+Look, I know its crazy to say that Markdown is going to be a large part of the written future. One minute after I wrote my post on App.net I had a person in real life turn to me and say, "No", thank you [Andrew Schmidt](https://alpha.app.net/andrewschmidt), while I still don't think I have convinced him he was willing to engage with me for a little while, but that is what gives me the smallest inkling of hope. If this was apparent to everyone then there wouldn't be anything to talk about. Every first grader would learn letter forms, and how to create a hyper link in markdown. That's not the case, and probably won't be for a long time. These things move glacially, but Markdown has a shot, and I just like making a long bet here. At the bare minimum it will give me something to root for.
+
+
