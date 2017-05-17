@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Rumproarious"
-baseURL = "http://rumproarious.com/"
+baseURL = "https://rumproarious.com/"
 theme ="after-dark"
 googleAnalytics = "UA-197961-20"
 enableRobotsTXT = true # Suggested, enable robots.txt file
