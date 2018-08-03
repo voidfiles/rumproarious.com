@@ -4,7 +4,9 @@ title: "Advice for a software dev who is not a librarian but now finds themselve
 date: 2018-08-03T12:00:00-06:00
 ---
 
-Well, around 3ish years ago I stared working for a company that sells software to libraries, I didn't know what to expect going in, but the best advice I can give someone is find a community knowledgable experts.
+Well, around 3ish years ago I stared working for a company that sells software to libraries, I had know idea what I was getting my eslf in to. I have learned a lot since then, but I am now embarking on a new journey and I would like to leave some advice to other software devs who might find them selves in similar situations.
+
+The best advice I can give someone is find a community who can remind you of how important libraries are.
 
 <!--more-->
 
@@ -14,4 +16,4 @@ Remember, always, that you build software for libraries. I've always appreciated
 
 We are apart of that and when we are at our best we are making their jobs a little easier so that they can do their best to contribute to a better world.
 
-There are lots of technical battles you will fight on a daily basis, but If I can keep that struggle near you will eventually steer the ship in the right direction.
+There are lots of technical battles you will fight on a daily basis, but if you can keep that larger struggle near you will eventually make positive a impact.
