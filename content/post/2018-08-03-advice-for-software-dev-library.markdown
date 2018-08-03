@@ -4,9 +4,9 @@ title: "Advice for a software dev who is not a librarian but now finds themselve
 date: 2018-08-03T12:00:00-06:00
 ---
 
-Well, around 3ish years ago I stared working for a company that sells software to libraries, I had know idea what I was getting my eslf in to. I have learned a lot since then, but I am now embarking on a new journey and I would like to leave some advice to other software devs who might find them selves in similar situations.
+Well, around 3ish years ago I stared working for a company that sells software to libraries and I didn't know a thing. I have learned a lot since then, but I am now embarking on a new journey and I would like to leave some advice to other software devs who might find themselves in similar situations.
 
-The best advice I can give someone is find a community who can remind you of how important libraries are.
+The best advice I can give is to find a community who can remind you of how important libraries are.
 
 <!--more-->
 
