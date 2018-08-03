@@ -16,4 +16,4 @@ Remember, always, that you build software for libraries. I've always appreciated
 
 We are apart of that and when we are at our best we are making their jobs a little easier so that they can do their best to contribute to a better world.
 
-There are lots of technical battles you will fight on a daily basis, but if you can keep that larger struggle near you will eventually make positive a impact.
+There are lots of technical battles you will fight on a daily basis, but if you can keep that larger struggle near you will eventually make a positive impact.
