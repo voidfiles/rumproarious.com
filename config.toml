@@ -1,7 +1,8 @@
 languageCode = "en-us"
 title = "Rumproarious"
 baseURL = "https://rumproarious.com/"
-theme ="after-dark"
+theme ="blank"
+assetDir = "assets"
 googleAnalytics = "UA-197961-20"
 enableRobotsTXT = true # Suggested, enable robots.txt file
 
@@ -9,7 +10,12 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
   post = "/:year/:month/:day/:slug/"
 
 [outputs]
-home = [ "HTML", "JSON", "RSS"]
+home = [ "HTML", "jsonfeed", "RSS"]
+
+[outputFormats.jsonfeed]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true
 
 [params]
   author = "Alex Kessinger"
