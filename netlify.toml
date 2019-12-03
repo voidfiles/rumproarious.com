@@ -1,0 +1,12 @@
+[build]
+  base = "/"
+  publish = "/public"
+  command = "hugo"
+
+  environment = {
+    HUGO_VERSION = "0.60.1"
+  }
+
+[[redirects]]
+  from = "/atom.xml"
+  to = "/index.xml"
