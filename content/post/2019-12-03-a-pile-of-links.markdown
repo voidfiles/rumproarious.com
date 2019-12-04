@@ -1,6 +1,6 @@
 ---
 title: "A Pile of Links"
-date: 2019-12-02T14:20:24-07:00
+date: 2019-12-03T14:20:24-07:00
 draft: false
 ---
 

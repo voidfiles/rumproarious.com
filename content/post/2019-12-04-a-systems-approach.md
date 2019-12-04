@@ -1,6 +1,6 @@
 ---
 title: "A Systems Approach"
-date: 2019-12-02T14:20:24-07:00
+date: 2019-12-04T10:00:24-07:00
 draft: false
 ---
 
