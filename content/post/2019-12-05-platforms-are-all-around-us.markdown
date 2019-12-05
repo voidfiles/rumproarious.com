@@ -1,5 +1,5 @@
 ---
-title: "2019 12 05 Platforms Are All Around Us"
+title: "Platforms Are All Around Us"
 date: 2019-12-05T08:44:22-07:00
 draft: false
 ---
