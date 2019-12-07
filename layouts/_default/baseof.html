@@ -88,7 +88,13 @@
 	tVZTU0NRpiS9q66PcOPGDQvIyKioqBjy5MmTFDhQc0NDQyhS6Y2QpIIgBU2wKViT
 	nJLsQIxCQ3p6enN4ePgj7NmXJCcnF48bN64EbdK0lhW39HkJ1/nlt67/D4vbyuQg
 	BHc8AAAAAElFTkSuQmCC">
-  {{ with resources.Get "css/style.css" | resources.Minify }}
+  {{ with resources.Get "css/normalize.css" | resources.Minify }}
+    <style>{{ .Content | safeCSS }}</style>
+  {{ end }}
+	{{ with resources.Get "css/typography.css" | resources.Minify }}
+    <style>{{ .Content | safeCSS }}</style>
+  {{ end }}
+	{{ with resources.Get "css/style.css" | resources.Minify }}
     <style>{{ .Content | safeCSS }}</style>
   {{ end }}
 </head>

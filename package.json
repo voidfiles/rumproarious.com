@@ -1,0 +1,24 @@
+{
+  "name": "rumproarious.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidfiles/rumproarious.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voidfiles/rumproarious.com/issues"
+  },
+  "homepage": "https://github.com/voidfiles/rumproarious.com#readme",
+  "dependencies": {
+    "typography": "^0.16.19"
+  }
+}

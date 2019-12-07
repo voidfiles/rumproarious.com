@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Rumproarious"
 baseURL = "https://rumproarious.com/"
-theme ="blank"
+theme ="tale"
 assetDir = "assets"
 googleAnalytics = "UA-197961-20"
 enableRobotsTXT = true # Suggested, enable robots.txt file
