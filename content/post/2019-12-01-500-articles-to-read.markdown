@@ -6,7 +6,7 @@ date: 2019-12-01T12:00:00-06:00
 
 500+ articles to read. That backlog took years to build. Years of, "Yea, I'll totally read that". Then not reading anything. While I was able to trash part of the backlog. (No, I don't need to read "4 spaces are better then 2 when formatting code"). I still had a healthy backlog.
 
-To not keep anyone in suspense, I read it [stopgap]. Reading it reminded me of my favorite articles from years past. So, this December I'm gonna try and share the articles that I have enjoyed over the years. Especially those that impacted my work.
+To not keep anyone in suspense, I read it [^stopgap]. Reading it reminded me of my favorite articles from years past. So, this December I'm gonna try and share the articles that I have enjoyed over the years. Especially those that impacted my work.
 
 Why are any of these worth your time to read?
 
@@ -26,4 +26,4 @@ If you've got your net out there, you can find something that will change your l
 
 Of course, there are great books, peer reviewed research, lectures, and videos out there as well. But, I have a soft spot for The Feed of written content the internet produces.
 
-[stopgap]: In a stopgap effort this year I printed it out. I wrote code to condense the articles to two columns. Even then printed on the front and back, I sheepishly hauled over 200 pages for a month, but I read them all.
+[^stopgap]: In a stopgap effort this year I printed it out. I wrote code to condense the articles to two columns. Even then printed on the front and back, I sheepishly hauled over 200 pages for a month, but I read them all.
