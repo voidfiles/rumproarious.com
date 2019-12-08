@@ -17,6 +17,7 @@ You owe it to everyone to try and write better commit messages.
 
 I'm not suggesting that I always do, it's a lofty goal, but here is [some](https://chris.beams.io/posts/git-commit/) help:
 
+{{< rawhtml >}}
 <blockquote>
   <ol>
     <li>Separate subject from body with a blank line</li>
@@ -28,5 +29,6 @@ I'm not suggesting that I always do, it's a lofty goal, but here is [some](https
     <li>Use the body to explain what and why vs. how</li>
   </ol>
 </blockquote>
+{{< /rawhtml >}}
 
 Please do read the whole post though.
