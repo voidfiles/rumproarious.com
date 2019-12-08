@@ -17,12 +17,16 @@ You owe it to everyone to try and write better commit messages.
 
 I'm not suggesting that I always do, it's a lofty goal, but here is [some](https://chris.beams.io/posts/git-commit/) help:
 
-> 1. Separate subject from body with a blank line
-2. Limit the subject line to 50 characters
-3. Capitalize the subject line
-4. Do not end the subject line with a period
-5. Use the imperative mood in the subject line
-6. Wrap the body at 72 characters
-7. Use the body to explain what and why vs. how
+<blockquote>
+  <ol>
+    <li>Separate subject from body with a blank line</li>
+    <li>Limit the subject line to 50 characters</li>
+    <li>Capitalize the subject line</li>
+    <li>Do not end the subject line with a period</li>
+    <li>Use the imperative mood in the subject line</ li>
+    <li>Wrap the body at 72 characters</li>
+    <li>Use the body to explain what and why vs. how</li>
+  </ol>
+</blockquote>
 
 Please do read the whole post though.
