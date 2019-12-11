@@ -12,11 +12,11 @@ For instance if you wanted design a system that would redraw the screen everytim
 
 Here's a nice image version:
 
-!(Latency Numbers Every Programmer Should Know)[http://i.imgur.com/k0t1e.png] [^gist]
+![Latency Numbers Every Programmer Should Know](http://i.imgur.com/k0t1e.png) [^gist]
 
 There is also an interactive version of this that shows how these numbers have changed overtime. [^overtime]
 
-Finally, its fun to see these numbers and think about them, but if you want to learn them and really incorperate them I would recomend this interactive exercise built by Julia Evans, ("Computers are Fast")[https://computers-are-fast.github.io/].
+Finally, its fun to see these numbers and think about them, but if you want to learn them and really incorperate them I would recomend this interactive exercise built by Julia Evans, ["Computers are Fast"](https://computers-are-fast.github.io/).
 
 [^norvig]: http://norvig.com/21-days.html#answers
 [^gist]: https://gist.github.com/jboner/2841832
