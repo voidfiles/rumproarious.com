@@ -8,7 +8,9 @@ The biggest irony in dev work is that we all want to build easy to use systems, 
 
 Easy is hard.
 
-Rich Hickey in his talk "[Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)" walks us through this irony and why its so important that we continue to try and build easy to use systems. 
+Rich Hickey in his talk "[Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)" walks us through this irony and why its so important that we continue to try and build easy to use systems. [^transcript]
 
+
+[^transcript]: Here is a [transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md) of the talk as well.
 
 
