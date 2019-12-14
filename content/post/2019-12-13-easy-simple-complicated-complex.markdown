@@ -1,7 +1,7 @@
 ---
 title: "Easy Simple Complicated Complex"
 date: 2019-12-13T18:54:39-07:00
-draft: true
+draft: false
 ---
 
 The biggest irony in dev work is that we all want to build easy to use systems, but that's hard to impossible to do.

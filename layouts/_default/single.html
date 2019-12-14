@@ -2,7 +2,9 @@
 	<main>
 		<article>
 			<h1>{{ .Title }}</h1>
+			{{ if .Date }}
 			<time>{{ .Date.Format "02.01.2006" }}</time>
+			{{ end }}
 			<div>
 				{{ .Content }}
 			</div>
