@@ -1,5 +1,6 @@
 ---
 title: "Performance Matters"
+description: "It's hard making the case for perfomance, but its important not only for the tech or the product, but its important for the humans in the loop as well."
 date: 2019-12-15T12:41:40-07:00
 draft: false
 ---
