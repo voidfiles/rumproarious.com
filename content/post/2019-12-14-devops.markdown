@@ -1,0 +1,31 @@
+---
+title: "Devops"
+date: 2019-12-14T21:45:42-07:00
+draft: false
+---
+
+DevOps, at least as I understand it, is about delivering value.
+
+It sounds simple, but delivering that value happens via a pipeline. The stages of that pipeline often represent whole groupes of people. Ofthen those groups can have competing priorities. Thus increasing friction in the pipeline and slowing down the deliver of value.
+
+That's where DevOps comes to the rescue. By working with everyone in the pipeline and building a shared vision of how to deliver value, you can get everyone to optimize for the shared global goal of value delivery.
+
+Last thing, it won't be easy even if you can see the end state.
+
+But, last good thing, people like to talk about DevOps, so there are lots of resources. 
+
+First, I can't speak highly enough about the [Dora](https://cloud.google.com/devops/)/[IT Revolution](https://itrevolution.com/) co hort. They've been producing a bunch of texts around DevOps. Led by [Nicole Forsgren (Phd)](https://nicolefv.com/)[^slc], [Jez Humble](https://twitter.com/jezhumble), and [Gene Kim](https://itrevolution.com/faculty/gene-kim/)
+
+- Books like [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+- Starting with [The State of DevOps](https://cloud.google.com/devops/state-of-devops/). For the last few years this has been helmed by Nicole Forsgren who has turned a nice report into a scientifically rigourous data set.
+- Which has led to a book like [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=pd_cp_14_4/147-1077308-3888548?_encoding=UTF8&pd_rd_i=1942788339&pd_rd_r=ea6a8608-74ae-4e05-a0de-1abaa2c4c685&pd_rd_w=XHfJ8&pd_rd_wg=n6RBP&pf_rd_p=0e5324e1-c848-4872-bbd5-5be6baedf80e&pf_rd_r=2SVW7MH9E7ZPXX013AY1&psc=1&refRID=2SVW7MH9E7ZPXX013AY1)
+
+Another way I enjoyed learning about DevOps was through the [DevOps Cafe Podcast](http://devopscafe.org/). A few choice episodes:
+
+- [Nicole Forsgren](http://devopscafe.org/show/2015/11/18/devops-cafe-episode-64-nicole-forsgren.html)
+- [Kelsey Hightower](http://devopscafe.org/show/2017/6/18/devops-cafe-episode-72-kelsey-hightower.html)
+
+But, really they are all great, by listening through the backlog you begin to see the peices that hold the DevOps community together. It's subtle, but worth it.
+
+
+[^slc]: Shout-out to another Utahn.
