@@ -7,6 +7,32 @@
 	<title>{{ .Title }}</title>
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+	<link rel="canonical" href="{{ .Permalink  }}">
+	<link rel="me" href="https://twitter.com/voidfiles">
+	<!-- Twitter Card data -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@voidfiles">
+	<meta name="twitter:title" content="{{ .Title }}">
+	{{ with .Site.Params.description }}
+	<meta name="twitter:description" content="{{ . }}">
+	{{ end }}
+	<meta name="twitter:creator" content="@voidfiles">
+	<meta name="twitter:image" content="{{ "/img/rocket.png" | absURL }}">
+
+	<!-- Open Graph data -->
+	<meta property="og:title" content="{{ .Title }}" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="{{ .Permalink  }}" />
+	<meta property="og:image" content="{{ "/img/rocket.png" | absURL }}" />
+
+	<meta itemprop="name" content="{{ .Title }}">
+	{{ with .Site.Params.description }}
+	<meta itemprop="description" content="{{ . }}">
+	{{ end }}
+	<meta itemprop="image" content="{{ "/img/rocket.png" | absURL }}">
+	{{ with .Site.Params.description }}
+	<meta property="og:description" content="{{ . }}" />
+	{{ end }}
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
