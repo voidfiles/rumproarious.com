@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=eydge">
 	<title>{{ .Title }}</title>
-	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Description | default .Summary  }}<meta name="description" content="{{ . | plainify | truncate 200 }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	<link rel="canonical" href="{{ .Permalink  }}">
 	<link rel="me" href="https://twitter.com/voidfiles">
@@ -13,8 +13,8 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@voidfiles">
 	<meta name="twitter:title" content="{{ .Title }}">
-	{{ with .Site.Params.description }}
-	<meta name="twitter:description" content="{{ . }}">
+	{{ with .Description | default .Summary  }}
+	<meta name="twitter:description" content="{{ . | plainify | truncate 200 }}">
 	{{ end }}
 	<meta name="twitter:creator" content="@voidfiles">
 	<meta name="twitter:image" content="{{ "/img/rocket.png" | absURL }}">
@@ -26,12 +26,12 @@
 	<meta property="og:image" content="{{ "/img/rocket.png" | absURL }}" />
 
 	<meta itemprop="name" content="{{ .Title }}">
-	{{ with .Site.Params.description }}
-	<meta itemprop="description" content="{{ . }}">
+	{{ with .Description | default .Summary  }}
+	<meta itemprop="description" content="{{ . | plainify | truncate 200 }}">
 	{{ end }}
 	<meta itemprop="image" content="{{ "/img/rocket.png" | absURL }}">
-	{{ with .Site.Params.description }}
-	<meta property="og:description" content="{{ . }}" />
+	{{ with .Description | default .Summary  }}
+	<meta property="og:description" content="{{ . | plainify | truncate 200 }}" />
 	{{ end }}
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
