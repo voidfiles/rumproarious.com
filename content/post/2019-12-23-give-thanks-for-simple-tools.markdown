@@ -4,7 +4,7 @@ date: 2019-12-23T21:10:24-07:00
 draft: false
 ---
 
-The infrastructure of my productivity is a set of tools the revolve around plain text files. Try as I might it doesn't work any other way.
+The infrastructure of my productivity is a set of tools that revolve around plain text files. Try as I might it doesn't work any other way.
 
 I've tried tools with more "stuff" in them. Often when I try and import my modest[^modest] set of files they grind to a halt. So, I go back to my tried and true tools.
 
