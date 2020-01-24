@@ -1,24 +1,12 @@
 {{ define "main" }}
 	<main>
 		<article>
-			<h1>{{ .Title }}</h1>
+			<h1 class="f1">{{ .Title }}</h1>
 			{{ if .Date }}
-			<time>{{ .Date.Format "02.01.2006" }}</time>
+			<time class="f6">{{ .Params.TakenOn }}</time>
 			{{ end }}
-			<div>
+			<div class="content measure">
 				{{ .Content }}
-			</div>
-			{{ with .Params.tags }}
-			<div>
-				<ul id="tags">
-					{{ range . }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
-			{{ end }}
-			<div>
-				{{ template "_internal/disqus.html" . }}
 			</div>
 		</article>
 	</main>

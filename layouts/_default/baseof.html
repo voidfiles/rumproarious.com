@@ -114,19 +114,20 @@
 	tVZTU0NRpiS9q66PcOPGDQvIyKioqBjy5MmTFDhQc0NDQyhS6Y2QpIIgBU2wKViT
 	nJLsQIxCQ3p6enN4ePgj7NmXJCcnF48bN64EbdK0lhW39HkJ1/nlt67/D4vbyuQg
 	BHc8AAAAAElFTkSuQmCC">
-  {{ with resources.Get "css/normalize.css" | resources.Minify }}
-    <style>{{ .Content | safeCSS }}</style>
-  {{ end }}
-	{{ with resources.Get "css/typography.css" | resources.Minify }}
-    <style>{{ .Content | safeCSS }}</style>
-  {{ end }}
+
+	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+	{{ with resources.Get "css/normalize.css" | resources.Minify }}
+    	<style>{{ .Content | safeCSS }}</style>
+ 	 {{ end }}
 	{{ with resources.Get "css/style.css" | resources.Minify }}
-    <style>{{ .Content | safeCSS }}</style>
-  {{ end }}
+    	<style>{{ .Content | safeCSS }}</style>
+ 	 {{ end }}
 </head>
-<body>
-	{{ partial "header" . }}
-	{{ block "main" . }}{{ end }}
-	{{ partial "footer" . }}
+<body class="w-100 serif">
+	<div class="mw7 center ph2">
+		{{ partial "header" . }}
+		{{ block "main" . }}{{ end }}
+		{{ partial "footer" . }}
+	</div>
 </body>
 </html>

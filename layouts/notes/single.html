@@ -1,0 +1,21 @@
+{{ define "main" }}
+	<main>
+		<article class="notes">
+			<h1>
+				<a href="{{ .Params.Link }}" class="f1">{{ .Title }}</a>
+				{{with .Params.Subtitle }}
+					<br><span class="f3">{{ . }}</span>
+				{{ end }}
+			</h1>
+
+			{{ if .Date }}
+			<span class="f6">Notes taken on <time>{{ .Date.Format "02.01.2006" }}</time></span>
+			{{ end }}
+			<hr>
+            <p class="f3 measure">{{ .Summary }}</p>
+			<div class="content">
+				{{ .Content }}
+			</div>
+		</article>
+	</main>
+{{ end }}
