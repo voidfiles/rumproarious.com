@@ -10,11 +10,7 @@ wordpress_id: '59'
 
 I just published an
 [article](https://web.archive.org/web/20100601091906/http://www.yuiblog.com/blog/2010/05/27/yui3-intro-to-offline/)
-on the YUI Blog. I have been working at
-Yahoo! for almost 3 years now. 1 year as an intern, more like an
-"intern", after about 3 months I just started working like a normal
-person, but was still in school so I had to be classified as an
-"intern".
+on the YUI Blog. I have been working at a Yahoo! for almost 3 years now.
 
 I have enjoyed more of my time at Yahoo, then not, and I think that
 Yahoo has a lot of really cool things going on. I have met some of the
