@@ -9,7 +9,7 @@ wordpress_id: '79'
 ---
 
 If you haven't checked out anything from [Jason Santa
-Maria](http://jasonsantamaria.com/), go check his blog out. He has been
+Maria](https://jasonsantamaria.com/), go check his blog out. He has been
 around for a long time, I think. The fact that I don't know much about
 him is what impresses me the most. I have read a few of his blog post,
 but each one has been incisive, and powerful so that they stand on their
@@ -18,7 +18,7 @@ understands the types of conversations that need to happen in order to
 advance the web as a medium.
 
 I loved watching this
-[video](http://wacchen.com/video/6262/sva-dot-dot-dot-lectures-jason-santa-maria-on-vimeo)
+[video](https://vimeo.com/4394152)
 with him speaking in it, it's been sitting in my queue for quite sometime, and finally
 tonight, screaming baby in tow, I took the time to watch it.
 
