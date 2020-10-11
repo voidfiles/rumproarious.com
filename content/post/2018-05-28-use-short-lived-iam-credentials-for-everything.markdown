@@ -4,11 +4,13 @@ title: "Use Short-Lived AWS IAM Credentials For Everything"
 date: 2018-05-28T15:48:24-06:00
 ---
 
-Managing IAM credentials is a burden. Besides juggling N separate credentials, I don't more secretes to manage. There must be a better way and I'm experimenting with some tools to find a better way.
+Managing IAM credentials is a burden. Besides juggling N separate credentials, I don't want more secretes to manage. There must be a better way and I'm experimenting with some tools to find a better way.
 
 <!--more-->
 
-Automatically generating short-lived credentials for security seems like a good solution. This solution is demonstrated by tools like [Bless](https://github.com/Netflix/bless) from Netflix, [SSH Secrets Engine](https://www.vaultproject.io/docs/secrets/ssh/index.html) in Vault from Hashicorp, and [Let's Encrypt](https://letsencrypt.org/). The short-lived nature of the credentials limit the scope of a compromise and forces secret rotation often. The auto-generated nature of the secrets means that you aren't increasing the number of long lived secrets that you store. Also, if it's easy it will be peoples default method of access.
+Automatically generating short-lived credentials for security seems like a good solution. This solution is demonstrated by tools like [Bless](https://github.com/Netflix/bless) from Netflix, [SSH Secrets Engine](https://www.vaultproject.io/docs/secrets/ssh/index.html) in Vault from Hashicorp, and [Let's Encrypt](https://letsencrypt.org/).
+
+The short-lived nature of the credentials limit the scope of a compromise and forces secret rotation often. The auto-generated nature of the secrets means that you aren't increasing the number of long lived secrets that you store. Also, if it's easy it will be the default method of access.
 
 The solution I propose isn't ground breaking, its been supported for a few years now, but the AWS docs around this concept are almost impenetrable. To figure it out required a lot of experimentation. I used [terraform](https://www.terraform.io/) to speed up the experimentation cycle. I would recommend you spare a lot of time for futzing.
 
