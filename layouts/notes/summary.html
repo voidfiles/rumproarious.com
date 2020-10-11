@@ -1,10 +1,8 @@
 <article>
-	<p class="f3"><a href="{{ .Permalink }}">Notes on {{ .Title }}</a></p>
-	<time class="f5">{{ .Date.Format "02.01.2006" }}</time>
-	<div class="f4">
-		<p class="measure-wide">{{ .Summary | plainify | safeHTML }}</p>
-		{{ if .Truncated }}
-			<a href="{{ .Permalink }}">Read more...</a>
-		{{ end }}
+	<p class="f3"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+	<div class="measure-wide lh-copy bt bw1 pb3">
+		<p >
+			{{ .Summary | plainify | safeHTML }} {{ if .Truncated }}<a href="{{ .Permalink }}">#</a>{{ end }}
+		</p>
 	</div>
 </article>

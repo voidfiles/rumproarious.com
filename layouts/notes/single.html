@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<main>
 		<article class="notes">
-			<h1>
+			<h1 class='lh-copy measure-wide'>
 				<a href="{{ .Params.Link }}" class="f1">{{ .Title }}</a>
 				{{with .Params.Subtitle }}
 					<br><span class="f3">{{ . }}</span>
@@ -15,8 +15,8 @@
 			<span class="f6"><a href="{{ . }} ">Amazon</a></span>
 			{{ end }}
 			<hr>
-            <p class="f3 measure">{{ .Summary }}</p>
-			<div class="content">
+            <p class="f3">{{ .Summary }}</p>
+			<div class="content lh-copy">
 				{{ .Content }}
 			</div>
 		</article>

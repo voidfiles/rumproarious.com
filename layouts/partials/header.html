@@ -1,3 +1,13 @@
 <header>
-	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> - <a href="{{ .Site.BaseURL }}notes/">Notes</a> - <a href="{{ .Site.BaseURL }}about">About</a>
+	<nav class="">
+		<div class="nowrap overflow-x-auto">
+			<a class="link blue f6 f5-ns dib mr1" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+			<span class=" blue f6 f5-ns dib mr1">&#8226;</span>
+			<a class="link blue f6 f5-ns dib mr1" href="{{ .Site.BaseURL }}post/">Posts</a>
+			<span class=" blue f6 f5-ns dib mr1">&#8226;</span>
+			<a class="link blue f6 f5-ns dib mr1" href="{{ .Site.BaseURL }}notes/">Notes</a>
+			<span class=" blue f6 f5-ns dib mr1">&#8226;</span>
+			<a class="link  blue f6 f5-ns dib mr1" href="{{ .Site.BaseURL }}about">About</a>
+		</div>
+	</nav>
 </header>
