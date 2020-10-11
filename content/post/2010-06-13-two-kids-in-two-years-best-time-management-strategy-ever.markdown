@@ -8,8 +8,12 @@ title: 'Two Kids, In Two Years: Best Time Management Strategy Ever'
 wordpress_id: '67'
 ---
 
-In the last week I have heard two co-workers exclaim lack of energy when they get home, and therefore can't find the time to work on
-extracurricular activities. When I hear this, I go-off a little, I know its unfair, and I shouldn't care what other people do, but I have two kids at home, and I still find the time to make things.
+I wrote this a long time ago. I had a different view of the world that I no longer share with this
+younger version of my self. I'm not deleting it because I want the reminder for my self. I want to remind anyone who reads this my self included, that being kind is not a weakness and seeking to build empathy will never be a bad way to spend some time.
+
+--- 
+
+In the last week I have heard two co-workers exclaim lack of energy when they get home, and therefore can't find the time to work on extracurricular activities. When I hear this, I go-off a little, I know its unfair, and I shouldn't care what other people do, but I have two kids at home, and I still find the time to make things.
 
 I am slowly forgetting what my life was like before I had kids, not so much the things I did, but more like what my daily routine was, but I am pretty sure I felt the same way. When I got home I wanted to relax, I knew that I had time later to do what I wanted. Later never came though.
 

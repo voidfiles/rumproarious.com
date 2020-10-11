@@ -9,7 +9,7 @@ wordpress_id: '58'
 ---
 
 I have made a number of websites, small and large. I would say that
-[wacchen](http://wacchen.com), is my fifth large project "launch". I
+[wacchen](https://web.archive.org/web/20110901211132/http://wacchen.com/), is my fifth large project "launch". I
 take that word "launch" with a grain of salt because this time I have
 done almost no fanfare. I just started by sharing things on my blog, and
 twitter.
@@ -30,15 +30,12 @@ far.
 
 -   [Chris Klarmann](http://twitter.com/wery67564) - using chrome on
     linux, not something I do everyday.
--   [Mathew James](http://www.google.com/profiles/praisewillard) - is
-    actual an old friend. He has been giving me bug reports about
-    inconsisitant behavior.
 -   [Jack Mottram](http://onethingwell.org/) - Runs a website about
     simple sites, and products. My stuff was broken in the beginning on
     his setup, and he stuck with it till it was fixed. I hope that my
     site fits the requirement for being on his site.
 -   [papyromancer](http://twitter.com/papyromancer) - Is just an awesome
     feedback giver. He has helped give me feedback on my other site,
-    [http://staytuned.in](http://staytuned.in), and he is continuing on
+    [http://staytuned.in](https://web.archive.org/web/20091001184550/http://staytuned.in/), and he is continuing on
     this one too.
 

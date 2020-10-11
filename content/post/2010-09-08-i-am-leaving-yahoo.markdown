@@ -16,9 +16,9 @@ isn't about that. If anything, it's about getting a variety of
 experience.
 
 That is why I am proud to say I am going to an awesome little company
-called [Mixed Media Labs](http://www.mixedmedialabs.com), and their
-product [Picplz](http://picplz.com) ([more info
-here](http://bits.blogs.nytimes.com/tag/picplz/)). I am excited to apply
+called [Mixed Media Labs](https://mxml-blog-blog.tumblr.com/), and their
+product [Picplz](https://web.archive.org/web/20100713033910/http://picplz.com/) ([more info
+here](https://bits.blogs.nytimes.com/2012/04/20/how-andreessen-horowitz-fumbled-an-instagram-investment/)). I am excited to apply
 what I have learned from building large websites, for millions of
 people, to building fast, sleek mobile apps. It doesn't hurt that the
 entire company sits in one space. I can't even imagine how refreshing

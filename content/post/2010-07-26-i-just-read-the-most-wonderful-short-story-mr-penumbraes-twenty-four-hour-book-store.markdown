@@ -2,14 +2,14 @@
 author: alex
 date: 2010-07-26 18:46:40 -0700
 layout: post
-slug: i-just-read-the-most-wonderful-short-story-mr-penumbra%e2%80%99s-twenty-four-hour-book-store
+slug: i-just-read-the-most-wonderful-short-story-mr-penumbras-twenty-four-hour-book-store
 status: publish
 title: 'I just read the most wonderful short story: Mr. Penumbra’s Twenty-Four-Hour
   Book Store'
 wordpress_id: '76'
 ---
 
-[here is the story](http://robinsloan.com/mr-penumbra)
+[here is the story](https://www.robinsloan.com/books/penumbra/short-story/)
 
 My favorite part besides the book was that I started to read it as if it
 was a dudes blog post about working in a 24 hour book shop. I thought

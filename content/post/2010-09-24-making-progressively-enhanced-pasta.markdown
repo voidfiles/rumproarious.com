@@ -17,10 +17,7 @@ but the idea's of Progressive Enhancement were core to my meal making.
 
 It started with pasta. I have been making pasta, and my own pasta sauce
 for a number of years now. I even created a video once that covers the
-basics, I really haven't come that far from [this
-video](http://cookingwithalex.blip.tv/file/162660/), although I have
-learned a weird beard is a bad idea. I have a few new tricks up my
-sleeve, but mostly around adaptability.
+basics. I have a few new tricks up my sleeve, but mostly around adaptability.
 
 My the pasta, is always a semolina, but I have a friend who is sensitive
 to gluten. They brought their own rice based pasta. That is where its

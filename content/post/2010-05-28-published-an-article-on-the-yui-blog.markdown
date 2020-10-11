@@ -9,8 +9,8 @@ wordpress_id: '59'
 ---
 
 I just published an
-[article](http://www.yuiblog.com/blog/2010/05/27/yui3-intro-to-offline/)
-on the [yuiblog.com](http://www.yuiblog.com). I have been working at
+[article](https://web.archive.org/web/20100601091906/http://www.yuiblog.com/blog/2010/05/27/yui3-intro-to-offline/)
+on the YUI Blog. I have been working at
 Yahoo! for almost 3 years now. 1 year as an intern, more like an
 "intern", after about 3 months I just started working like a normal
 person, but was still in school so I had to be classified as an
@@ -24,12 +24,9 @@ how to unleash it upon the world. Fear not, I am working on it.
 
 I am very proud, and excited to represent Yahoo on the [YUI
 Blog](http://www.yuiblog.com), and by the way if you are looking for a
-job we are
-[hiring](http://www.yuiblog.com/blog/2010/05/20/yos-position-f2e/).
+job we are hiring.
 
-From the
-[article](http://www.yuiblog.com/blog/2010/05/27/yui3-intro-to-offline/).
-Its about offline HTML5 apps.
+From the article. Its about offline HTML5 apps.
 
 > I could say that HTML5 is building steam, but that time is passed:
 > HTML5 is here. Mobile is already huge, WebKit is growing rapidly, and
