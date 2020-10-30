@@ -18,8 +18,6 @@ This makes sense to publishers for a couple of reasons. First, many news publish
 
 Lets look at an example like Deadspin. They have 115k likes on their Facebook page. Which gives them a chance at reaching those subscribers every time they publish something to that page. Now we look at how many people subscribe to Deadspin on Google Reader; 221k.
 
-![Deadspin on Google Reader](http://orbt.io/Pgkg.png)
-
 Not only do they have almost twice the readers on Google Reader, each story is probably read more often then it is on Facebook.
 
 Of course anything Facebook would do would have to include a bunch of big brand, upscale publishers, but I think its important to realize that even us little guys are looking at loosing a [giant portion of readers](http://www.rumproarious.com/2013/03/13/wow/).Even Marshall Kirkpatrick had this to say about a Facebook News Reader:

@@ -23,10 +23,9 @@ culture (and TV!)—during sensible hours of the working week."
 ([source](http://www.theawl.com/about) [Yesterday I saw the title of a a
 post of there's, it was titled "](http://www.theawl.com/about)[Hurley
 Killed Rosie
-Larsen](http://www.theawl.com/2011/06/hurley-killed-rosie-larsen)". When
-I clicked through I found this.
-![image](http://dl.dropbox.com/u/133599/Screenshots/v3x_.png) First for
-context. This is a blog post playing on a recent TV show called [The
+Larsen](http://www.theawl.com/2011/06/hurley-killed-rosie-larsen)".
+
+First for context, this is a blog post playing on a recent TV show called [The
 Killing](http://www.amctv.com/shows/the-killing). The Killing was really
 good a building suspense, just like another infamous TV show Lost, and
 just like Lost they built the entire season up, and then didn't give

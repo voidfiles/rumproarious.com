@@ -120,7 +120,9 @@
  	 {{ end }}
 	{{ with resources.Get "css/style.css" | resources.Minify }}
     	<style>{{ .Content | safeCSS }}</style>
- 	 {{ end }}
+	  {{ end }}
+	  <link rel="preconnect" href="https://www.googletagmanager.com">
+	  <link rel="preconnect" href="https://www.google-analytics.com">
 </head>
 <body class="w-100 pb3">
 	<div class="mw7 center ph2">
