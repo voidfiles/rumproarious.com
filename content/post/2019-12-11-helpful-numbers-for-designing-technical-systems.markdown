@@ -12,7 +12,7 @@ For instance if you wanted design a system that would redraw the screen everytim
 
 Here's a nice image version:
 
-![Latency Numbers Every Programmer Should Know](http://i.imgur.com/k0t1e.png) [^gist]
+![Latency Numbers Every Programmer Should Know](https://i.imgur.com/k0t1e.png) [^gist]
 
 There is also an interactive version of this that shows how these numbers have changed overtime. [^overtime]
 

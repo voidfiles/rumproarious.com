@@ -14,7 +14,4 @@ Is there anyway to know by how much though? What do you think the leading indica
 
 On a side note, take a look at this alexa graph of blogger.com. I site like that has to be impacted by a Google Reader shutdown, right?
 
-![Blogger.com Alexa Traffic Graph](http://orbt.io/PxNt.png)
-[http://www.alexa.com/siteinfo/blogger.com](http://www.alexa.com/siteinfo/blogger.com)
-
 
