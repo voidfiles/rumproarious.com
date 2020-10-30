@@ -2,6 +2,16 @@ a {
   color:#00449e;
   text-decoration: none;
 }
+
+body {
+    font-family: 'Open Sans', 'Helvetica', sans-serif;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAABLUlEQVRIDb1VyxXDIAzLuecs0XP336ALpKeeGKAL0Cdi+QlCGhJ4zcWgWv4gTKfJvk9Y5rAsc3i/7oBijA9iWO/5AacfuPRVjFwEvfnGFkMxBIsxzhpUMO9CMC+oCWN72kUMTw9CvAdjjMu2LLLcZ4FrQvVgSKYXKSVTPZh9KKbisV3FkBR4C2a++UVSQT3BSeHJSwkqXJ7MfyxERkWceGTtEb7GPTXxejzpiNZh9qElZnbFQfox8T6YpfAMZlxPsvFT4UHCpxirPsKMmnGJXbJMfJpcE2ooZpr42bNCnC3XtEcYu9z4WZK9p94TbQRdX4J8umuYCurVVqa22U/+RRlv17LtXYcrP4wQWQurxeue+LIx088HNCUYMPG1C2JPSo/Ijdyyy6a9nn0L4QuP+IgmZJXHBgAAAABJRU5ErkJggg==);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Libre Baskerville', 'Georgia', serif;
+}
+
 .content h1 {
     color:#00449e;
     font-size: 2.25rem;

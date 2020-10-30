@@ -2,7 +2,7 @@
 	<main>
 		<article>
 			<p><a href="/"><-- home</a></p>
-			<h1 class="f3 f3-m f1-l dark-blue sans-serif">{{ .Title }}</h1>
+			<h1 class="f3 f3-m f1-l dark-blue">{{ .Title }}</h1>
 			{{ if .Date }}
 			<p class="f6"><time>{{ dateFormat "Jan 2, 2006" .Date }}</time></p>
 			{{ end }}
