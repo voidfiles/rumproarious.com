@@ -20,6 +20,13 @@ home = [ "HTML", "jsonfeed", "RSS"]
 [params]
   author = "Alex Kessinger"
   author_url = "https://twitter.com/voidfiles"
+  google_fonts = [
+    ["Libre Baskerville", "400, 700"],
+    ["Open Sans", "400, 400i, 700, 700i"]
+  ]
+
+  heading_font = "Libre Baskerville"
+  body_font = "Open Sans"
 
 [markup.goldmark.renderer]
 unsafe= true
