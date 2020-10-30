@@ -20,3 +20,6 @@ home = [ "HTML", "jsonfeed", "RSS"]
 [params]
   author = "Alex Kessinger"
   author_url = "https://twitter.com/voidfiles"
+
+[markup.goldmark.renderer]
+unsafe= true
