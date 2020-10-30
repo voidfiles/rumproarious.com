@@ -1,15 +1,14 @@
 {{ define "main" }}
 	<main>
 		<article>
-			<h1 class="f3 f2-m f1-l dark-blue ">{{ .Title }}</h1>
-			<div class="content lh-copy measure-wide bt bw1">
+			<p><a href="/"><-- home</a></p>
+			<h1 class="f3 f3-m f1-l dark-blue sans-serif">{{ .Title }}</h1>
+			{{ if .Date }}
+			<p class="f6"><time>{{ dateFormat "May 2, 2006" .Date }}</time></p>
+			{{ end }}
+			<div class="content lh-copy measure-wide">
 				{{ .Content }}
 			</div>
-			{{ if .Date }}
-			<p class="f6 b--black-30">
-				Published: <time >{{ .Date.Format "02.01.2006" }}</time>
-			</p>
-			{{ end }}
 		</article>
 	</main>
 {{ end }}
