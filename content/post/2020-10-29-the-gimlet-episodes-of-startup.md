@@ -16,7 +16,7 @@ I've recommended it so many times, to so many people, I now need a post to eaisl
 
 If Spotify is your jam a playlist has already been setup by another fan.
 
-<iframe src="https://open.spotify.com/embed/playlist/1GCVohF8gPmJYL0vxIFyz4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/1GCVohF8gPmJYL0vxIFyz4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" title="Just the episodes about Gimlet in a spotify playlist"></iframe>
 
 Otherwise here are links to the episodes:
 
