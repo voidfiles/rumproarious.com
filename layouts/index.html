@@ -5,7 +5,7 @@
 			about what I'm reading, researching, and thinking. Find me on twitter <a href="https://twitter.com/voidfiles">@voidfiles</a>.
 		</p>
 		<hr>
-		<h1 class="dark-blue">Latest Posts</h1>
+		<h1 class="sans-serif dark-blue">Latest Posts</h1>
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
 		{{ range $paginator.Pages }}
 			{{ .Render "summary" }}
