@@ -2,28 +2,35 @@ a {
   color:#00449e;
   text-decoration: none;
 }
-
 .content h1 {
-    font-size: 3rem;
+    color:#00449e;
+    font-size: 2.25rem;
 }
 
 .content h2 {
-    font-size: 2.25rem
-}
-
-.content h3 {
+    color:#00449e;
     font-size: 1.5rem;
 }
 
-.content h4 {
+.content h3 {
+    color:#00449e;
     font-size: 1.25rem;
 }
 
-.content h5, .content p {
+.content h4 {
+    color:#00449e;
     font-size: 1rem;
 }
 
+.content p {
+    font-size: 1rem;
+}
+.content h5 {
+    font-size: .75rem;
+}
+
 .content h6 {
+    color:#00449e;
     font-size: .75rem;
 }
 
