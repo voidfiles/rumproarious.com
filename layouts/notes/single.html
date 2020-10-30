@@ -8,15 +8,11 @@
 			{{with .Params.Subtitle }}
 				<p class="f6 dark-blue">{{ . }}</p>
 			{{ end }}
-<<<<<<< Updated upstream
-			{{ with .Params.Link }}
-			<span class="f6"><a href="{{ . }} ">Reference</a></span>
-=======
 
 			{{ if .Date }}
 			<p class="f6"><time>{{ dateFormat "May 2, 2006" .Date }}</time></p>
->>>>>>> Stashed changes
 			{{ end }}
+
 			<div class="content">
 				<p>{{ .Summary }}</p>
 				{{ .Content }}
