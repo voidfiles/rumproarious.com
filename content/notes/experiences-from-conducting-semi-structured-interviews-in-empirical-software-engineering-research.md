@@ -1,7 +1,11 @@
 ---
 Title: "Experiences from conducting semi-structured interviews in empirical software engineering research"
 slug: "experiences-from-conducting-semi-structured-interviews-in-empirical-software-engineering-research"
-Author: Siw Elisabeth Hove, Bente Anda
+Authors:
+  - name: Siw Elisabeth Hove
+    link: https://dblp.org/pid/38/2517.html
+  - name: Bente Anda
+    link: https://dblp.org/pid/91/2927.html
 Summary: "Interviews provide a rich set of qualitative experiences to analyze, but they require a high level of effort to achieve high quality results. This paper provides recommendations based on available literature and the experience of the authors."
 Link: "https://ieeexplore.ieee.org/document/1509301"
 Date: "2020-10-25"
@@ -83,19 +87,19 @@ They also talk about their experience with various question types:
 They also talk about different question techniques.
 
 * **Probes** are a device to get the interviewee to expand on a response
-	* “Anything more?” 
-	* A period of silence
-	* An enquiring glance
+    * “Anything more?” 
+    * A period of silence
+    * An enquiring glance
 * **Prompts** suggest to the interviewer the set of possible answers that the interviewer expects 
 * **Laddered question techniques**: Allow interviewer to consider the invasiveness of questions
-	* “By studying the subject closely and adjusting the level of intrusion by choosing the right types of question, quality interviews can be conducted.”
+    * “By studying the subject closely and adjusting the level of intrusion by choosing the right types of question, quality interviews can be conducted.”
 
 And they cover some additional techniques 
 
 * It is valuable to ask informal questions at the beginning, in order to loosen up and create a relaxed atmosphere. 
 * The interviewees’ ability to answer very general questions satisfactorily varies to a large extent. To approach this, it is possible to either
-	* ask very specific questions at the beginning, such as “Can you describe how you worked with this task?”, and then ask more general follow-up questions, such as “Is this how you normally work?” or
-	* start with general questions and follow up with more specific questions to ensure that the important issues are covered. 
+    * ask very specific questions at the beginning, such as “Can you describe how you worked with this task?”, and then ask more general follow-up questions, such as “Is this how you normally work?” or
+    * start with general questions and follow up with more specific questions to ensure that the important issues are covered. 
 
 - - - -
 
@@ -201,11 +205,11 @@ involved in the study, it might be necessary to spend time on meetings and discu
 Two views from the literatures
 
 * Interviewer should be an expert in the field.
-	* Helps to ask clarifying questions
-	* helps steer questions to useful information
+    * Helps to ask clarifying questions
+    * helps steer questions to useful information
 * Interviewer shouldn’t be an expert in the field.
-	* Familiarity can cause them to overlook details
-	* Subjects may assume an expert already knows things
+    * Familiarity can cause them to overlook details
+    * Subjects may assume an expert already knows things
 
 > Our experience is in accordance with [15]. In the field of software engineering it is very important for the interviewer to have extensive knowledge of the theme of the interview. Armed with such knowledge, the interviewer will be able to understand the information that the interviewees give, ask the relevant follow up questions, and be able to clarify ambiguities and to control the interview. It can be difficult for an interviewer with limited knowledge to understand what is important and to follow up interesting and relevant topics further. If the interviewer does not have appropriate knowledge, the quality of the interview depends to an overwhelming extent on the interviewee.   
 
@@ -276,19 +280,19 @@ Six different kinds of questions from the literature
 **Question Techniques**
 
 * _Probes_: is a device to get the interviewee to expand on a response
-	* “Anything more?” 
-	* A period of silence
-	* An enquiring glance
+    * “Anything more?” 
+    * A period of silence
+    * An enquiring glance
 * _Prompts_: suggest to the interviewer the set of possible answers that the interviewer expects 
 * _Laddered question techniques_: Allow interviewer to consider the invasiveness of questions
-	* “By studying the subject closely and adjusting the level of intrusion by choosing the right types of question, quality interviews can be conducted.”
+    * “By studying the subject closely and adjusting the level of intrusion by choosing the right types of question, quality interviews can be conducted.”
 
 Additionnel techniques 
 
 * It is valuable to ask informal questions at the beginning, in order to loosen up and create a relaxed atmosphere. 
 * The interviewees’ ability to answer very general questions satisfactorily varies to a large extent. To approach this, it is possible to either
-	* ask very specific questions at the beginning, such as “Can you describe how you worked with this task?”, and then ask more general follow-up questions, such as “Is this how you normally work?” or
-	* start with general questions and follow up with more specific questions to ensure that the important issues are covered. 
+    * ask very specific questions at the beginning, such as “Can you describe how you worked with this task?”, and then ask more general follow-up questions, such as “Is this how you normally work?” or
+    * start with general questions and follow up with more specific questions to ensure that the important issues are covered. 
 
 **Sensitive Questions**
 

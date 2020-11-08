@@ -2,7 +2,9 @@
 Title: "The Fifth Discipline"
 SubTitle: "The Art & Practice of The Learning Organization"
 slug: "the-fifth-discipline"
-Author: Peter M. Senge
+Authors:
+  - name: Peter M. Senge
+    link: https://en.wikipedia.org/wiki/Peter_Senge
 Summary: "In The Fifth Discipline, Senge describes how companies can rid themselves of the learning “disabilities” that threaten their productivity and success by adopting the strategies of learning organizations—ones in which new and expansive patterns of thinking are nurtured, collective aspiration is set free, and people are continually learning how to create results they truly desire."
 Link: "https://amzn.to/37sfO6b"
 Date: "2020-01-24"
