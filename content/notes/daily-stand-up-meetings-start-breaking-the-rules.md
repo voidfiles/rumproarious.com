@@ -1,7 +1,13 @@
 ---
 Title: "Daily Stand-Up Meetings Start Breaking the Rules "
 slug: "daily-stand-up-meetings-start-breaking-the-rules"
-Author: "Viktoria Stray, University of Oslo, SINTEF Nils Brede Moe, SINTEF Dag I.K. Sjøberg, University of Oslo, SINTEF "
+Authors:
+    - name: Viktoria Stray
+      link: https://scholar.google.com/citations?user=218yzw8AAAAJ&hl=en
+    - name: Nils Brede Moe
+      link: https://scholar.google.com/citations?hl=en&user=S0Zh5nMAAAAJ
+    - name: Dag I.K. Sjøberg
+      link: https://scholar.google.no/citations?user=vrSgXikAAAAJ&hl=en
 Summary: "A group of researches who've studied the daily standup for over a decade summarize their research and provide recommendations for how to make standups more valuable."
 Link: "https://arxiv.org/abs/1808.07650"
 Date: "2020-11-01"
@@ -79,8 +85,8 @@ When one facilitator runs the meeting most of the time, the meeting tends to tur
 Folks don’t like it when standup is a status meeting
 
 * The time of day has a large impact on the perceived value of the meeting
-	* When teams are co-located, right before lunch seems to be the best time.
-	* When teams are remote, the paper doesn’t offer any useful recommendations, when it comes to time of day.
+    * When teams are co-located, right before lunch seems to be the best time.
+    * When teams are remote, the paper doesn’t offer any useful recommendations, when it comes to time of day.
 
 > Therefore, even when arriving early, some team members waited
 > until after the meeting to start on challenging issues, and

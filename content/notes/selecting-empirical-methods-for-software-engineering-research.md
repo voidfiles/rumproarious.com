@@ -1,7 +1,15 @@
 ---
 Title: "Selecting Empirical Methods for Software Engineering Research"
 slug: "selecting-empirical-methods-for-software-engineering-research"
-Author: "Steve Easterbrook, Janice Singer, Margaret-Anne Storey, Daniela Damian"
+Authors:
+  - name: Steve Easterbrook
+    link: https://scholar.google.com/citations?hl=en&user=bD8DWiEAAAAJ
+  - name: Janice Singer
+    link: https://scholar.google.com/citations?hl=en&user=xun9v94AAAAJ
+  - name: Margaret-Anne Storey
+    link: https://scholar.google.com/citations?hl=en&user=WhjQewkAAAAJ
+  - name: Daniela Damian
+    link: https://scholar.google.com/citations?hl=en&user=B-1karUAAAAJ
 Summary: "Researchers studying software engineering often choose inappropriate methods. This chapter from, 'Guide to Advanced Empirical Software Engineering', is intended to help folks understand how to choose the right methods."
 Link: "https://link.springer.com/chapter/10.1007/978-1-84800-044-5_11"
 Date: "2020-10-30"

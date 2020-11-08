@@ -2,7 +2,13 @@
 Title: "The Phoenix Project"
 SubTitle: "A Novel about IT, DevOps, and Helping Your Business Win"
 slug: "the-phoenix-project"
-Author: Gene Kim, Kevin Behr, George Spafford
+Authors: 
+  - name: Gene Kim
+    link: http://www.realgenekim.me/
+  - name: Kevin Behr
+    link: https://twitter.com/kevinbehr
+  - name: George Spafford
+    link: https://www.gartner.com/analyst/38065/George-Spafford
 Summary: "Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO.The company's new IT initiative, code named Phoenix Project, is critical to the future of Parts Unlimited, but the project is massively over budget and very late. The CEO wants Bill to report directly to him and fix the mess in ninety days or else Bill's entire department will be outsourced."
 Link: "https://amzn.to/2O0nEwi"
 Date: "2020-01-25"

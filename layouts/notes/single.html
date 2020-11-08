@@ -1,20 +1,39 @@
 {{ define "main" }}
 	<main>
-		<article class="noteslh-copy measure-wide">
+		<article class="notes lh-copy measure-wide">
 			<h1>
 				<a href="{{ .Params.Link }}" class="f3 f3-m f1-l">{{ .Title }}</a>
 			</h1>
-
 			{{with .Params.Subtitle }}
 				<p class="f6 dark-blue">{{ . }}</p>
 			{{ end }}
 
-			{{ if .Date }}
-			<p class="f6"><time>{{ dateFormat "Jan 2, 2006" .Date }}</time></p>
+			{{with .Summary }}
+				<p class='b'>Summary</p>
+				<p class="">{{ . }}</p>
 			{{ end }}
 
+			{{ with .Params.Link }}
+			<p class='b'>Source</p>
+			<p class=""><a href="{{ . }}">{{ . }}</a></p>
+			{{ end }}
+
+			{{ with .Params.Authors }}
+				{{if gt (len .) 1}}
+				<p class='b'>Authors</p>
+				{{ else }}
+				<p class='b'>Author</p>
+				{{ end }}
+				<ul>
+					{{ range .}}
+						<li><a href="{{ .link }}">{{ .name }}</a></li>
+					{{ end}}
+				</ul>
+			{{ end }}
+
+
 			<div class="content">
-				<p>{{ .Summary }}</p>
+				<hr>
 				{{ .Content }}
 			</div>
 		</article>

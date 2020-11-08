@@ -1,7 +1,9 @@
 ---
 Title: "The Field Guide to Understanding 'Human Error'"
 slug: "the-field-guide-understand-human-error"
-Author: Sidney Dekker
+Authors:
+  - name: Sidney Dekker
+    link: https://sidneydekker.com/
 Summary: "The Field Guide to Understanding ’Human Error’ will help you understand a new way of dealing with a perceived 'human error' problem in your organization. It will help you trace how your organization juggles inherent trade-offs between safety and other pressures and expectations, suggesting that you are not the custodian of an already safe system."
 Link: "https://amzn.to/3aCtLRb"
 Date: "2020-01-27"
