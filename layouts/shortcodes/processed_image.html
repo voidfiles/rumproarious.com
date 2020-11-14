@@ -1,0 +1,4 @@
+{{- $param := (index .Params 0) }}
+{{ with .Page.Resources.GetMatch $param }}
+<img src="{{ (.Resize "1200x").RelPermalink }}">
+{{ end }}
