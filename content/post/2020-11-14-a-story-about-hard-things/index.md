@@ -1,7 +1,7 @@
 ---
 title: "Doing hard things with others"
 date: "2020-11-14T12:12:56-07:00"
-draft: false
+draft: true
 ---
 
 Doing hard work, especially novel work, with others is *hard* and it's incredibly difficult to talk about. Us humans have a penchant for being nice and polite, which is lovely. It allows us to co-exist, mostly. We can stand in a crowed street and generally we all get where we are going. Even when we work in the same office or when we work on a project our penchant for nice and polite allows us to muddle through our work.
