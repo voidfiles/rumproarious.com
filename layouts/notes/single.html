@@ -1,9 +1,9 @@
 {{ define "main" }}
 	<main>
+		<h1 class="f3 f3-m f1-l dark-blue">
+			<a href="{{ .Params.Link }}" >{{ .Title }}</a>
+		</h1>
 		<article class="notes lh-copy measure-wide">
-			<h1>
-				<a href="{{ .Params.Link }}" class="f3 f3-m f1-l">{{ .Title }}</a>
-			</h1>
 			{{with .Params.Subtitle }}
 				<p class="f6 dark-blue">{{ . }}</p>
 			{{ end }}
