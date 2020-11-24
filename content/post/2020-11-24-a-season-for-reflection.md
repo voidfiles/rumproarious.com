@@ -1,6 +1,6 @@
 ---
 title: "A Season for Reflection"
-date: "2020-11-24T11:16:56-07:00"
+date: "2020-11-24T01:16:56-07:00"
 draft: False
 ---
 
