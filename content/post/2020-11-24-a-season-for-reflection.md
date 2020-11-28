@@ -6,7 +6,7 @@ draft: False
 
 Striving to be better, made me. Even though, it almost broke me. Over the last few years, I’ve tried to find a way to balance my daily duties and routines with my drive to be better and do better. Besides being a great time to be with family and friends, for me the time between Thanksgiving and New Years' allows me to burn through my inbox, collect my thoughts, maybe write. It’s become my season of reflection, without it I’d find it hard to have perspective.
  
-I’ve got a bunch of duties. Husband, father, friend, son. Not to mention my work. My primary driver is to do better be better. I can’t not. I caught myself once, spending like half a day trying to *vacation* better, while on vacation. It’s a strength and an affliction.
+I’ve got a bunch of duties. Husband, father, friend, brother, son. Not to mention my work. My primary driver is to do better be better. I can’t not. I caught myself once, spending like half a day trying to *vacation* better, while on vacation. It’s a strength and an affliction.
  
 Without getting too deep in things I don’t understand, I think my life experiences sort of led me to a place where I thought if I did everything correctly, everything would be correct. And, I brought this unfair perspective to every part of my life. It propelled me to make bad decisions that I felt were somehow justified.
  
