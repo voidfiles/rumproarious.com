@@ -7,7 +7,7 @@ draft: False
 ![A hypothetical dependency graph that led to a systemic failure in AWS us-east-1](index/Photo%20Nov%2029,%202020%20at%2032239%20PM.jpg)
 (A hypothetical dependency graph that led to a systemic failure in AWS us-east-1 from [@0xdabbad00](https://twitter.com/0xdabbad00/status/1332680835472867328?s=21))
 
-Like many, I was personally affected by the AWS outage last week. I was on-call, and was paged for a couple of reasons. While I was paged, I owe a lot to the infrastructure team I work with. They managed all of the issues I was paid for, and outside of a few spurious pages, I was mostly insulated from the issue.
+Like many, I was personally affected by the AWS outage last week. I was on-call, and was paged for a couple of reasons. While I was paged, I owe a lot to the infrastructure team I work with. They managed all of the issues I was paged for, and outside of a few spurious pages, I was mostly insulated from the issue.
 
 AWS wrote a [post mortem](https://aws.amazon.com/message/11201/), but [this analysis](https://cloudirregular.substack.com/p/the-cold-reality-of-the-kinesis-incident) is an interesting take.
 
