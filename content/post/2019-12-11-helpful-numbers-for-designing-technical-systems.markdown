@@ -4,11 +4,11 @@ date: 2019-12-11T07:56:26-07:00
 draft: false
 ---
 
-When I design a new system, I want it to be efficent. Foremost for any humans invovled, but also for the technical components. Why make two HTTP calls when you can make 1. When thinking about tradeoffs it can be helpful to consider how long certain operations take.
+When I design a new service, I want it to be efficient. Mostly, for any humans involved, but also for the technical components. Why make two HTTP calls when you can make 1. When thinking about tradeoffs it can be helpful to consider how long common operations take.
 
-There are lists that have been made, as far as I can tell starting with Peter Norvig, and then repopularsed by Jeff Dean. [^norvig] They are sometimes referred to as latency numbers every engineer should know. I take issue with the every programmer should know language, but as you advanace in your carrer it's helpful to know these so that you can reason about design.
+Not surprisingly, lists have been made of these common operations. As far as I can tell starting with Peter Norvig, and then re-popularised by Jeff Dean. [^norvig] They are sometimes referred to as latency numbers every engineer should know. I take issue with the "every programmer should know" language, but as you advance in your career it's helpful to know these so that you can reason about service design.
 
-For instance if you wanted design a system that would redraw the screen everytime a character was typed into a screen you might not want to wait for a response from a remote system.
+For instance, if you are designing a service that would redraw the screen every time a character was typed you might not want to wait for a response from a remote system. The reason being, a network response will never be fast enough. And it would feel incredibly slow for the person typing. If you can reasonably think through service design earlier in the design process it will be much cheaper for everyone involved. These numbers can help you make these kinds of decisions much earlier in a design process.
 
 Here's a nice image version:
 
