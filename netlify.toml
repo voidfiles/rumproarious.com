@@ -5,6 +5,11 @@
 
   environment = { HUGO_VERSION = "0.76.3" }
 
+# Deploy Preview context: all deploys generated from
+# a pull/merge request will inherit these settings.
+[context.deploy-preview]
+  command = "hugo -DF"
+
 [[redirects]]
   from = "/atom.xml"
   to = "/index.xml"
