@@ -1,7 +1,6 @@
 ---
 title: "How my biggest work failure led to success"
-date: "2022-04-11T01:16:56-07:00"
-draft: True
+date: "2022-04-10T01:16:56-07:00"
 ---
 
 From my tiny West Berkeley apartment, with my family asleep upstairs, I typed into the search box: “python Berkeley”. It was 2015 and for the past 6 years, I commuted hours a day all over the Bay Area. My goal was eventually to create a startup. But, My latest gig had imploded and I was tired and mis-wanting to be a startup founder was reason number one . While I still enjoyed programming, I needed a refuge from the hustle, if possible a job I could walk to. I didn’t care if it put me any closer to being a startup founder.
