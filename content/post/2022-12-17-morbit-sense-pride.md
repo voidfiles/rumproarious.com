@@ -1,7 +1,6 @@
 ---
 title: "A Morbid Sense of Pride"
 date: "2022-12-17T16:38:21-0700"
-draft: true
 ---
 
 Once you've decided to adopt a new view of safety, and want to help an organization change, how do you know if you are changing anything? How do you know if you are successful? Especially considering the total organization overhaul you hope to achieve. It can be useful to identify some markers somewhere between nothing, and totaly sucess. What are some markers that demonstrate we are on our way?
