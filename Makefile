@@ -1,2 +1,2 @@
 serve:
-	hugo server --buildDrafts
+	hugo server --buildDrafts --buildFuture
