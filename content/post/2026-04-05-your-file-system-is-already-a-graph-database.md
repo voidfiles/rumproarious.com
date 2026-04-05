@@ -4,7 +4,7 @@ date: "2026-04-05T10:00:00-07:00"
 draft: false
 ---
 
-Karpathy recently posted about using LLMs to build personal knowledge bases — collecting raw sources into a directory, having an LLM "compile" them into a wiki of interlinked markdown files, and viewing the whole thing in Obsidian. He followed it up with an "idea file," a gist you can hand to your agent so it builds the system for you.
+[Karpathy recently posted about using LLMs](https://x.com/karpathy/status/2039805659525644595) to build personal knowledge bases — collecting raw sources into a directory, having an LLM "compile" them into a wiki of interlinked markdown files, and viewing the whole thing in Obsidian. He followed it up with an "idea file," a gist you can hand to your agent so it builds the system for you.
 
 This is a great idea, I've been doing some form of this for over a decade. My Staff Eng co-host [@davidnoelromas](https://x.com/davidnoelromas) reached out after the tweet to ask for more details on how I've been using obsidian and AI. This an expanded version of what I told him.
 
