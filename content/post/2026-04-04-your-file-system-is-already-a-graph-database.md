@@ -1,6 +1,6 @@
 ---
 title: "Your File System Is Already a Graph Database"
-date: "2026-04-05T10:00:00-07:00"
+date: "2026-04-04T10:00:00-07:00"
 draft: false
 ---
 
